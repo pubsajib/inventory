@@ -1,0 +1,76 @@
+/* .chart {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    display: block;
+} */
+.chart {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    display: block;
+    line-height: 1;
+    padding: 60px 20px;
+}
+.chart p{
+    display: inline-block;
+    line-height: 1;
+    clear: both;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.chart canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+/* .percent {
+    display: inline-block;
+    line-height: 110px;
+    z-index: 2;
+} */
+.data-count{
+    z-index: 2;
+    font-weight: 700 !important;
+    font-size: 18px;
+}
+/* .percent {
+    display: block;
+    line-height: 1;
+    z-index: 2;
+    font-weight: 700;
+    font-size: 18px;
+} */
+/* .percent:after {
+    content: '';
+    margin-left: 0.1em;
+    font-size: .8em;
+} */
+.span6 {
+    float: left;
+    width: 50%;
+}
+#total_product .data-count{
+    color: #0d3c55;
+}
+#invoice .data-count{
+    color: #d8af14;
+}
+#customer .data-count{
+    color: #1359da;
+}
+#total_sales .data-count{
+    color: #f16c20;
+}

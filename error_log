@@ -1,0 +1,18 @@
+[19-May-2017 10:05:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:05:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:05:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:05:58 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:08:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 146
+[19-May-2017 10:08:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:08:49 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[19-May-2017 10:08:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/fffoundation/public_html/dev/index.php on line 50
+[27-May-2017 07:24:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/app/Http/Controllers/SalesOrderController.php on line 709
+[27-May-2017 09:46:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:46:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:46:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:47:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:48:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:48:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:48:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:48:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
+[27-May-2017 09:48:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/fffoundation/ims.fffoundationltd.com/resources/lang/en/message.php on line 1
